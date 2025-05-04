@@ -1,4 +1,4 @@
-# AI Doctor 3: Medical Expert Finetuning
+# AI Doctor 2: Medical Expert Finetuning
 
 This project demonstrates how to finetune the DeepSeek-R1-Distill-Llama-8B model to create an AI medical assistant capable of answering complex medical questions with clinical reasoning.
 
