@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1uX6cjANPaW1kTRzXSoBAvKHx7EsNsUQH
 """
 
-print("AI with Hassan")
+print("AI")
 
 # Step1: Create & Setup hugging face API token in Collab
 
